@@ -1,6 +1,6 @@
 # Work Timer App
 
-This is a simple work timer application built using `Tkinter` for Python. The app helps users follow the Pomodoro Technique, which alternates between work and breaks.
+This application is a training project that I developed using the Tkinter library in Python. The goal of the app is to simulate the Pomodoro Technique, which involves dividing time into work periods and break periods.
 
 ## Features:
 - **Timer**: The timer starts counting down for the work session (default is 10 minutes).
